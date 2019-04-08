@@ -1,1 +1,1 @@
-# autosetup
+# basicsetup
